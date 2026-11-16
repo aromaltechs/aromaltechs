@@ -27,7 +27,7 @@ I'm a Computer Science graduate and .NET Full Stack Development Trainee interest
 
 A project focused on simplifying shared expense tracking and splitting costs among individuals.
 
-[View Repository]((https://github.com/aromaltechs/SplitSmart)
+[View Repository](https://github.com/aromaltechs/SplitSmart)
 
 **GroShelf — Grocery Tracking and Food Waste Management**
 
