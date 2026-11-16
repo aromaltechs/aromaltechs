@@ -2,48 +2,49 @@
 
 ### Software Developer | C# | .NET | ASP.NET Core
 
-I'm a Computer Science graduate and .NET Full Stack Development Trainee interested in building practical, reliable software applications.
+I'm a Computer Science graduate and .NET Full Stack Development Trainee at Quest Innovative Solutions Pvt. Ltd., Kochi. I'm focused on building practical applications and strengthening my skills in backend and full-stack development.
 
-- Currently working as a **.NET Full Stack Development Trainee at Quest Innovative Solutions Pvt. Ltd.**
-- Interested in backend development, REST APIs, database design, and full-stack application development.
-- Continuously improving my problem-solving and software development skills.
+- Currently developing my skills in **C#, ASP.NET Core Web API, and Entity Framework Core**.
+- Interested in backend development, RESTful APIs, database design, and full-stack application development.
+- Enjoy learning new technologies and solving practical programming problems.
 
 ### Technical Skills
 
-**Languages:** C#, JavaScript, TypeScript, Python, C++
+**Languages:** C#, SQL, JavaScript, TypeScript
 
-**Backend:** .NET, ASP.NET Core Web API, Entity Framework Core, REST APIs
+**Backend:** .NET, ASP.NET Core Web API, Entity Framework Core, RESTful APIs
 
-**Frontend:** HTML5, CSS3, Bootstrap, Angular
+**Frontend:** HTML5, CSS3, Bootstrap, jQuery, Angular
 
 **Databases:** SQL Server, PostgreSQL, MySQL, Supabase, Firebase
 
 **Tools:** Git, GitHub, Visual Studio, VS Code
 
+**Core Concepts:** Object-Oriented Programming, Database Design, API Integration, Exception Handling
+
 ### Projects
 
-**SplitSmart — Expense Splitting Application**  
+#### SplitSmart — Expense Splitting Application
 *Currently in Development*
 
-A project focused on simplifying shared expense tracking and splitting costs among individuals.
+An application focused on simplifying shared expense tracking and splitting costs among individuals.
 
 [View Repository](https://github.com/aromaltechs/SplitSmart)
 
-**GroShelf — Grocery Tracking and Food Waste Management**
+#### OIBSIP — Web Development Internship Projects
 
-A full-stack application designed to help users manage grocery inventory, track expiration dates, discover recipes, and reduce food waste.
-
-Technologies: PostgreSQL, Express.js, React.js, Node.js, Supabase.
-
-[View Project](https://github.com/rubeenavs/FW)
-
-**OIBSIP — Web Development Internship Projects**
-
-A collection of web development projects completed as part of my internship, including practical frontend development tasks.
+A collection of practical web development projects completed during my internship, covering frontend development and interactive web applications.
 
 [View Repository](https://github.com/aromaltechs/OIBSIP)
+
+### Currently Working On
+
+- Strengthening my C# and .NET development skills.
+- Building practical applications using ASP.NET Core and SQL Server.
+- Improving problem-solving and programming fundamentals.
 
 ### Connect With Me
 
 - **LinkedIn:** [Aromal Suresh](https://linkedin.com/in/aruz)
 - **GitHub:** [@aromaltechs](https://github.com/aromaltechs)
+- **Email:** aromal.techs@gmail.com
